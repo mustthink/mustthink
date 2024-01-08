@@ -1,6 +1,3 @@
-# 👋 Hi there! I'm Mykola
-
-
 # <p align="center">🏠 Hello👋, my name is Mykola</p>
 ### I'm a passionate and dedicated software developer with expertise in Golang, microservices architecture, and a knack for crafting innovative solutions. 
 
